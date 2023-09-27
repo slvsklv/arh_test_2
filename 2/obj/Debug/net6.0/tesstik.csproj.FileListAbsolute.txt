@@ -1,0 +1,12 @@
+C:\Users\klika\source\repos\2\2\bin\Debug\net6.0\tesstik.deps.json
+C:\Users\klika\source\repos\2\2\bin\Debug\net6.0\tesstik.dll
+C:\Users\klika\source\repos\2\2\bin\Debug\net6.0\tesstik.pdb
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\tesstik.csproj.AssemblyReference.cache
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\tesstik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\tesstik.AssemblyInfoInputs.cache
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\tesstik.AssemblyInfo.cs
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\tesstik.csproj.CoreCompileInputs.cache
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\tesstik.dll
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\refint\tesstik.dll
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\tesstik.pdb
+C:\Users\klika\source\repos\2\2\obj\Debug\net6.0\ref\tesstik.dll
